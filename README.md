@@ -8,4 +8,3 @@ For improvement:
   - increasing training data size
     - instead of monthly -> weekly
   - optimizing the layers, batch size, epochs
-  - using other data for training
